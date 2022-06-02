@@ -1,0 +1,43 @@
+#batman {
+    text-align: center;
+    background-color: #E6E6E6
+}
+
+
+h1 {
+    text-align: center;
+    background-color: #C4C4C4;
+    color: #005677
+ }
+
+ h2  {
+     background-color: #C4C4C4;
+ color: #005677
+ }
+
+.datos {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.años{
+    font-weight: bold;
+}
+
+#abajo {
+    margin-left: 80px
+}
+
+.final{
+    background: #005677;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 140px;
+    height: 37px;
+    font-weight: 700;
+    font-size: 20px;
+}
